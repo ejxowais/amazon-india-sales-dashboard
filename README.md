@@ -31,7 +31,7 @@ All KPI cards and tables use standard Excel formulas linked directly to `Sales_D
 - **Cancellation Rate %** = `=IF(Total_Orders=0, 0, Cancelled_Orders / Total_Orders)` (`=IF(B42=0,0,B40/B42)`)
 
 ## 5. Dashboard preview
-![Dashboard](screenshots/dashboard.png)like this?
+![Dashboard](screenshots/dashboard.png)
 
 ## 6. Key findings
 1. **Steady revenue with stronger order values in 2026:** Total sales across Jan 2024 – Aug 2026 reached **₹15.58 Cr** (₹155,789,894) with **₹3.32 Cr** (₹33,167,008) in profit across 10,000 orders, holding a **21.3% profit margin**. Full-year sales edged up +0.7% from 2024 (₹5.70 Cr) to 2025 (₹5.74 Cr). In 2026 (Jan–Aug), average order value rose to **₹16,209** (up +5.7% from ₹15,338 in 2025), and July 2026 was the highest month on record at ₹64.44 Lakh in sales.
